@@ -5,11 +5,10 @@ public:
         string brandName;
         string modelName;
         string launchDate;
-
-
+    
    
     void inputCarDetails() {
-        cout << "Enter Brand Name: ";
+        cout << "Enter Company Name: ";
         cin >> brandName;
         
         cout << "Enter Model Name: ";
