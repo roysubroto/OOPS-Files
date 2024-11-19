@@ -1,2 +1,2 @@
-int Test ::a = 0;
-// int Test ::b= 0;
+
+    S.b=20;
