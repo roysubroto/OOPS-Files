@@ -21,6 +21,6 @@ int Test ::count = 0;
 
 int main()
 {
-    cout << "HEllo";
+    cout << "HEllo bhaijaan";
     Test t1,t2,t3;
 }
