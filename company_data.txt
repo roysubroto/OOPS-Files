@@ -1,0 +1,20 @@
+Company TechCorp SanFrancisco 5e+006
+Team Alpha
+ResearchProject AIResearch 2024-12-31 100000 ArtificialIntelligence
+FullTime 101 Alice Engineer AI 80000
+PartTime 102 Bob Analyst AI 40000
+EndTeam
+Team Beta
+DevelopmentProject MobileApp 2024-06-30 150000 Flutter
+FullTime 103 Charlie Developer Mobile 90000
+EndTeam
+EndCompany
+Company InnovateX NewYork 7e+006
+Team Gamma
+DevelopmentProject WebPlatform 2025-01-15 200000 React
+FullTime 104 David LeadEngineer Web 100000
+PartTime 105 Eve Designer Web 50000
+EndTeam
+EndCompany
+Company Apple India 7.34977e+006
+EndCompany

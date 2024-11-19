@@ -1,0 +1,10 @@
+Team,Development Team 1
+DevelopmentProject,Project Alpha,2023-12-31,50000,C++/Python
+fullTime,1,Alice,80000,Manager,Development
+fullTime,2,Bob,75000,Developer,Development
+EndTeam
+Team,Development Team 2
+DevelopmentProject,Project Beta,2024-06-30,70000,JavaScript/Node.js
+partTime,3,Charlie,40000,Designer,UI/UX
+partTime,4,David,35000,Tester,Quality Assurance
+EndTeam
